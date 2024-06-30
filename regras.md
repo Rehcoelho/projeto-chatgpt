@@ -7,7 +7,7 @@
   ## Assunto:  
   Git - Versionamento de código 
 
-  ## Título:
+  ## Título: 
   Git e GitHub: Colaboração e Controle de Versões no Desenvolvimento de Software.
 
   ## Capa
@@ -25,7 +25,7 @@
  - Conceito Básicos do Git 
  - Trabalhando com Github 
  - Colaboração em projetos de Software 
- - Recursos Avançados do Github 
+ - Recursos Avançados do Github     
  - Práticas recomendadas 
  - Exemplos Práticos e Tutoriais 
  - Casos de Uso e Exemplos da Vida Real 
